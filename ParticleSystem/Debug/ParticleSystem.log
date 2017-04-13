@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\visual studio 2015 projects\particlesystem\particlesystem\main.cpp(92): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ParticleSystem.vcxproj -> d:\visual studio 2015 Projects\ParticleSystem\Debug\ParticleSystem.exe
+  ParticleSystem.vcxproj -> d:\visual studio 2015 Projects\ParticleSystem\Debug\ParticleSystem.pdb (Full PDB)
